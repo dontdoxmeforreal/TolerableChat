@@ -1,0 +1,31 @@
+## Interface: 16001
+## Title: TolerableChat
+## Notes: Keeps chat quiet and game-focused: hides politics, religion, streamer talk, bigotry and harassment, and mutes the guilds you choose.
+## Version: 1.0.1
+## SavedVariables: TolerableChatDB
+## IconTexture: Interface\Icons\Spell_Holy_Silence
+## AddonCompartmentFunc: TolerableChat_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: TolerableChat_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: TolerableChat_OnAddonCompartmentLeave
+
+Terms.lua
+GameNames.lua
+Core.lua
+Diag.lua
+Text.lua
+Matcher.lua
+Filter.lua
+Mutes.lua
+Players.lua
+Check.lua
+Blocking.lua
+Net.lua
+Menu.lua
+UI.lua
+Share.lua
+Tabs.lua
+Tabs2.lua
+Tabs3.lua
+TermEditor.lua
+Options.lua
+Slash.lua

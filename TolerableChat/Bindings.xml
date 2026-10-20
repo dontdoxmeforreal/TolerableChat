@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding name="TOLERABLECHAT_TOGGLE" category="TolerableChat">
+		TolerableChat_Toggle()
+	</Binding>
+	<Binding name="TOLERABLECHAT_CHECK" category="TolerableChat">
+		TolerableChat_CheckNext()
+	</Binding>
+</Bindings>
